@@ -10,5 +10,3 @@ You can:
 - Use BBCode or HTML in your page content (but not at the same time),
 - Use PHP variables,
 - Decide if your page should be displayed in "Who is Online" page or not.
-
-Do you want more features? Tell me about your ideas here: http://krupson.eu/mybb/custompages/newidea/
